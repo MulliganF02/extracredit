@@ -1,7 +1,16 @@
 EXTRA CREDIT FOR CSIS2050:
 
-A real world situation that SCM would have helped improve was when I first started going to hackathons. It would've been much easier to continue working on the projects on Github since most of the time I would be on a team with people I didn't know well. We did exchange contact information, but it would have been so much easier to fix errors and continue the project that way rather than having to contact the person and hope they had the code still. For example, when I was working on my second hackathon project, PuppyTime, I had a great time working on it but since I wasn't one of the people that had the code on their laptop I couldn't hope to continue it even if I wanted to. If my team had used GitHub, we would've been able to continue working on it and get the chance to have a full fledged company by now. 
+A real world situation that SCM would have helped improve was when I first started going to hackathons. 
+It would've been much easier to continue working on the projects on Github since most of the time I would be on a team with people I didn't know well. 
+We did exchange contact information, but it would have been so much easier to fix errors and continue the project that way rather than having to contact the person and hope they had the code still. 
+For example, when I was working on my second hackathon project, PuppyTime, I had a great time working on it but since I wasn't one of the people that had the code on their laptop I couldn't hope to continue it even if I wanted to.
+If my team had used GitHub, we would've been able to continue working on it and get the chance to have a full fledged company by now. 
 
-A situation where it has been helpful is working collaboratively for TechTogether Boston. When I worked on the dashboard, I was working with another person from BU across long distance. We found this useful in order to fix errors and let each other know about progress we had each made on the project. Being able to collaborate, we were able to get the dashboard up and running which was the goal we were hoping for. 
+A situation where it has been helpful is working collaboratively for TechTogether Boston. 
+When I worked on the dashboard, I was working with another person from BU across long distance. 
+We found this useful in order to fix errors and let each other know about progress we had each made on the project.
+Being able to collaborate, we were able to get the dashboard up and running which was the goal we were hoping for. 
 
-Long story short, GitHub is a great resource that I will utilize more. I actually have been using it a lot more recently thanks to being an organizer for TechTogether Boston and helping fix the dashboard on there. I've had a pretty good learning curve that will aid me in the future when I attend more hackathons and eventually enter the workforce since engineering is a very collaborative space. 
+Long story short, GitHub is a great resource that I will utilize more.
+I actually have been using it a lot more recently thanks to being an organizer for TechTogether Boston and helping fix the dashboard on there. 
+I've had a pretty good learning curve that will aid me in the future when I attend more hackathons and eventually enter the workforce since engineering is a very collaborative space. 
